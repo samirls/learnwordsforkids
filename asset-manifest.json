@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/learnwordsforkids/static/css/main.c53a253a.css",
+    "main.css": "/learnwordsforkids/static/css/main.62a37b23.css",
     "main.js": "/learnwordsforkids/static/js/main.a74be2f9.js",
     "static/media/galinha.jpg": "/learnwordsforkids/static/media/galinha.370fd5f8108dd9abdad4.jpg",
     "static/media/vaca.jpg": "/learnwordsforkids/static/media/vaca.a8bdef8fdf11079510e1.jpg",
@@ -9,11 +9,11 @@
     "static/media/gato.jpg": "/learnwordsforkids/static/media/gato.b291a9f2b429de10ab9f.jpg",
     "static/media/girafa.jpg": "/learnwordsforkids/static/media/girafa.5802245f30e91fd5e283.jpg",
     "index.html": "/learnwordsforkids/index.html",
-    "main.c53a253a.css.map": "/learnwordsforkids/static/css/main.c53a253a.css.map",
+    "main.62a37b23.css.map": "/learnwordsforkids/static/css/main.62a37b23.css.map",
     "main.a74be2f9.js.map": "/learnwordsforkids/static/js/main.a74be2f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.c53a253a.css",
+    "static/css/main.62a37b23.css",
     "static/js/main.a74be2f9.js"
   ]
 }
